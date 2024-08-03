@@ -1952,7 +1952,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cc9f0;
+			background-color: #56ccaa;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -1962,7 +1962,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #9acff2;
+				background-color: #66dcba;
 			}
 
 			input[type="submit"].primary:active,
@@ -1970,7 +1970,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #7ec3ee;
+				background-color: #76ecca;
 			}
 
 			input[type="submit"].primary.icon:before,
@@ -3372,7 +3372,7 @@ input, select, textarea {
 		#main input[type="button"],
 		#main button,
 		#main .button {
-			background-color: #3f94ed;
+			background-color: #56ccaa;
 			color: #ffffff !important;
 		}
 
@@ -3381,14 +3381,14 @@ input, select, textarea {
 			#main input[type="button"]:hover,
 			#main button:hover,
 			#main .button:hover {
-				background-color: #5fc6ff;			}
+				background-color: #66dcba;			}
 
 			#main input[type="submit"]:active,
 			#main input[type="reset"]:active,
 			#main input[type="button"]:active,
 			#main button:active,
 			#main .button:active {
-				background-color: rgba(222, 222, 222, 0.5);
+				background-color: #76ecca;
 			}
 
 			#main input[type="submit"].icon:before,
