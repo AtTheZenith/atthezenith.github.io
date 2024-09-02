@@ -3775,3 +3775,14 @@ input, select, textarea {
 			}
 
 		}
+
+/* Fonts */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+h3, h4, h5, h6, p, a {
+    font-weight: 300;
+}
